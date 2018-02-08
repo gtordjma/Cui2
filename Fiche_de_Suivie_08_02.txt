@@ -1,0 +1,9 @@
+Fiche de suivie 08/02/2018:
+
+- Tutoriel realiser autour d'ElasticSearch et de son fonctionnement :
+Decouverte de la techno et prise en main des requete elasticsearch (POST,PUT,DELETE). Premier search realiser autour d'une petite base de donnees creee. La notion de Score est encore a revoir et personnalise en fonction des filtres et query-search utilise.
+
+- Tutoriel realiser autour de spark:
+Mise en place de spark et premiere prise en main. Michael n'a pas pu push ce qu'il a vu avec spark (il rencontre des probleme avec git et windows). Je le vois ce weekend afin de regler ce probleme. De ce que j'ai cru comprendre decouverte de spark a travers le tuto conseiller sur moodle et de quelque video de presentation sur youtube.
+
+Pour la semaine prochaine je pense qu'on sera capable de vous presenter une petite page web avec une section recherche. En faisant une recherche la page nous sort le resultat de requete elasticsearch. On mettera en place des premiers objet JSON dans elasticsearch afin d'avoir des recherche interressante a faire (pourquoi pas recuperer des tweet via l'api tweeter).
