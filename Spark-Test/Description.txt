@@ -1,3 +1,10 @@
 A travers ce dossier sera push plus test realiser autour de spark.
 La plupart d'entre eux resultant de code issu de tuto sur internet,
 qui nous ont aider a apprendre ce framework.
+
+Tuto 1:
+
+Premiere prise en main de spark.
+Tres legere web app.
+Deux pages web charger grace a un systeme de routing,
+et premiers templates cree avec les handlebars.
