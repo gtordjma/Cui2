@@ -1,0 +1,3 @@
+A travers ce dossier sera push plus test realiser autour de spark.
+La plupart d'entre eux resultant de code issu de tuto sur internet,
+qui nous ont aider a apprendre ce framework.
